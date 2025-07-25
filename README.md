@@ -3,6 +3,12 @@
 ## Overview
 This project utilizes Power BI to analyze real estate data, providing insights into property characteristics, conditions, and pricing across various locations. The analysis focuses on key metrics such as the number of bedrooms, waterfront status, renovation status, and property conditions.
 
+![Dashboard1](1.png)
+
+![Dashboard2](2.png)
+
+![Dashboard3](3.png)
+
 ## Features
 - **Property Characteristics**: Breakdown of properties by the number of bedrooms.
 - **Waterfront Status**: Analysis of properties with and without waterfront access.
